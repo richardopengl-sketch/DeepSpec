@@ -2,6 +2,12 @@
 
 DeepSpec is a full-stack codebase for training and evaluating draft models for speculative decoding. It contains data preparation utilities, draft model implementations, training code, and evaluation scripts.
 
+## Personal fork reading notes
+
+[DSpark source walkthrough (Chinese)](./DSpark_CODE_READING_ZH.md) documents the
+fixed public source version, cache/training/verification flow, and distinction
+from native MTP. It is a reading guide, not a new model adaptation or benchmark.
+
 ## Environment
 
 Install the Python dependencies:
